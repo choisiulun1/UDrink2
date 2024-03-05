@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UDrink</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="default_web_client_id">263017136219-nvm7af7ebh6iblpk67a24tg5mclvc8hj</string>
+</resources>

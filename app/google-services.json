@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263017136219",
+    "project_id": "udrink-154e6",
+    "storage_bucket": "udrink-154e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263017136219:android:d5ed8630af30a8bebbbf7e",
+        "android_client_info": {
+          "package_name": "com.android.udrink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263017136219-ja1jlrid2l3qq34f4m0aqvo4sici4dvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.udrink",
+            "certificate_hash": "32be44d3f8aff1e1e4fbda59c0435c1732f0f4cf"
+          }
+        },
+        {
+          "client_id": "263017136219-nvm7af7ebh6iblpk67a24tg5mclvc8hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLT6wFc5khfbyWbaEulpHIhPy-PqFFyQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263017136219-nvm7af7ebh6iblpk67a24tg5mclvc8hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
